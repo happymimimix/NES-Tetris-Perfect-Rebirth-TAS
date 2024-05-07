@@ -18,7 +18,7 @@ I actually made it go for level 255 one more time after 5 rollovers has been com
 
 After reaching level 255 for one last time, I don't wanna just top out and die. Instead, I successfully managed to trigger a very bizarre and rare game crash behavior at level 255 to end the run. After collaborating with the game for over 9 hours, trying my best to reduce the stress on the game's ancient code, I betrayed at the last level before we could get the 6th level rollover. HAHAHAHA! 
 
-To my surprise, the game's RNG rewarded me with an extremely bizarre crash behavior that I have never seen before even once! It draws random shapes onto the board and it no longer takes in left and right inputs. After a few seconds, the ending rocket castle screen appears without top out! 
+To my surprise, the game's RNG rewarded me with an extremely bizarre crash behavior that I have never seen before even once! It draws random shapes onto the board and it no longer takes in left and right inputs. After a few seconds, the ending rocket castle screen appears without topping out! 
 What's even more bizarre is that if you press start on that screen, it will play the castle animation one more time as a great reward for nice collaboration in the past 5 level rollovers. At last it reach the screen where it asks you to put in your name... 
 
 The TAS lasted for 2,013,666 frames in total, or 9.3 hours. I'm super happy with this amazing outcome. 
