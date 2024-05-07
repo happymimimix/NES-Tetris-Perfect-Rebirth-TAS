@@ -31,7 +31,7 @@ Download FCEUX from: https://fceux.com/web/download.html
 
 Download the original unmodified NES Tetris ROM from: https://archive.org/download/tetris-nes/Tetris.nes
 
-Download my TAS movie file from: https://github.com/sudo-000/NES-Tetris-Perfect-Rebirth-TAS/Releases
+Download my TAS movie file from: https://github.com/sudo-000/NES-Tetris-Perfect-Rebirth-TAS/releases/tag/000
 
 Open FCEUX
 
