@@ -1,6 +1,6 @@
 ### A TAS I made to achieve Perfect Rebirth Screen in NES Tetris. (Original Unmodified ROM)
 
-Great thanks to Meat Fighter for making (this tetris bot)[https://meatfighter.com/nintendotetrisai/], it really saved me a ton of work. 
+Great thanks to Meat Fighter for making [this tetris bot](https://meatfighter.com/nintendotetrisai), it really saved me a ton of work. 
 
 Unfortunately this bot has no knowledge of the crash theory and even attempted to patch the game to prevent crashing. 
 
